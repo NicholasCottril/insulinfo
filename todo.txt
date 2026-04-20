@@ -1,2 +1,0 @@
-- css like catpuchin
-- working buttons and pages
